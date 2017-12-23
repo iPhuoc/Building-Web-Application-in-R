@@ -1,0 +1,87 @@
+---
+title: "Building Web Applications in R with Shiny"
+author: "Khac Phuoc Le"
+date: "12/21/2017"
+output:
+  html_document:
+    df_print: default
+    highlight: tango
+    keep_md: yes
+    number_sections: yes
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,  cache = TRUE, message = FALSE, warning = FALSE)
+``` 
+
+
+
+**Course Description**
+
+Shiny is an R package that makes it easy to build interactive web apps straight from R. Shiny combines the computational power of R with the interactivity of the modern web. This course will take you from R programmer to Shiny developer. If you want to take a fresh, interactive approach to telling your data story, let users interact with your data and your analysis, and do it all with R, dive in!
+
+# Introduction and Shiny basics
+
+This chapter lays out the basic architecture of a shiny app. You'll learn how to create the user interface and the server function for your first shiny application.
+
+
+## Welcome to the course! 
+  
+### What's in an app? 
+
+
+
+
+
+
+### First peek under the hood 
+
+
+
+
+
+
+
+
+
+## User interface 
+
+### Extend the UI 
+
+
+
+
+
+
+### Extend the UI further 
+
+
+
+
+
+
+
+
+
+
+## Server function 
+
+### Rules of server functions 
+
+
+
+
+
+
+### Fix it up 
+
+
+
+
+
+
+
+
